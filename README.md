@@ -1,4 +1,4 @@
 # apnacollege-demo
-This is my first git repository.
+<b>This is my first git repository.<b>
 <br>
-Author - <b>Isha Bhojani<b>
+Author - <b>Isha Bhojani<b> 
